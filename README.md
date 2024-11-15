@@ -12,10 +12,11 @@
 ## Hands-on Tutorials
 - [🤗 Huggingface](https://huggingface.co/docs/transformers/quicktour)
 
-## Advanced Topics
-- [🐱 More advanced topics: LoRA, Quantization, etc.](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
-
 ## Data extraction attack
 - [📹 Video by carlini](https://www.youtube.com/watch?v=A_P_9mmTuGA&ab_channel=USENIX)
 - [📹 More detailed version of the same video](https://www.youtube.com/watch?v=RDpHBLJKaNU&ab_channel=PrivacyandSecurityinMLInterestGroup)
 - [📑 Original data extraction paper](https://arxiv.org/abs/2012.07805)
+
+
+## Advanced Topics
+- [🐱 More advanced topics: LoRA, Quantization, etc.](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
