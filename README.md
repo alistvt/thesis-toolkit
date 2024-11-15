@@ -1,4 +1,4 @@
-# LLM-Learning
+# LLM Learning
 
 ## Fundamentals
 - [📹 Language Modeling](https://www.youtube.com/watch?v=lnA9DMvHtfI&ab_channel=Graphicsin5Minutes) 
