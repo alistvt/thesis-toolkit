@@ -1,6 +1,7 @@
 # LLM Learning
 
 ## Fundamentals
+- [📹 Intro to LLMs](https://www.youtube.com/watch?v=LPZh9BOjkQs&ab_channel=3Blue1Brown)
 - [📹 Language Modeling](https://www.youtube.com/watch?v=lnA9DMvHtfI&ab_channel=Graphicsin5Minutes) 
 - [📹 Tokenization](https://www.youtube.com/watch?v=mPCDi7ZQCls&ab_channel=Databricks)
 - [📹 BPE Tokenization](https://www.youtube.com/watch?v=hL4ZnAWSyuU&ab_channel=DataMListic)
