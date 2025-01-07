@@ -8,6 +8,7 @@
 - [📹 Vectorizing Words (Word Embeddings)](https://www.youtube.com/watch?v=gQddtTdmG_8&ab_channel=Computerphile)
 - [📹 Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g&t=2628s&ab_channel=AndrejKarpathy)
 - [📹 Developing an LLM: Building, Training, Finetuning](https://www.youtube.com/watch?v=kPGTx4wcm_w&ab_channel=SebastianRaschka)
+- [📹 Visualizing transformers and attention, by Grant Sanderson](https://www.youtube.com/watch?v=KJtZARuO3JY&ab_channel=GrantSanderson)
 - [📹 How large language models work, a visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6&ab_channel=3Blue1Brown)
 - [🐱 Sampling methods and text generation](https://mlabonne.github.io/blog/posts/2022-06-07-Decoding_strategies.html)
 
