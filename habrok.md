@@ -8,14 +8,14 @@ But this is the way I do it and I'm comfortable with it, so maybe you find a bet
 In Hábrók Wiki they recommend to connect to a ftp protochol, etc.
 I recommend you use your GitHub for it. Here is how to do:
 
-[1] make a github repository for your project
-[2] share it with me! (repo settings -> collaborators -> ...)
-[3] make a fine-grained token for this repository:
+1. make a github repository for your project
+2. share it with me! (repo settings -> collaborators -> ...)
+3. make a fine-grained token for this repository:
   - profile settings -> developer options -> fine-grained token -> select the project
   - grant the repository permissions -> contents -> read and write
   - save your token
-[4] connect to habrok in ssh
-[5] clone your repository:
+4. connect to habrok in ssh
+5. clone your repository:
   - `git clone https://oauth2:<your-fine-grained-token>@github.com/owner/repo.git`
 
 Now you will have your code in Habrok. You can modify your code through your local editor (like VsCode) and push it to github, then go to Habrok pull the changes, or vice versa.
