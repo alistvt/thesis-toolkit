@@ -1,4 +1,4 @@
-# LLM Learning
+# LLM Thesis Toolkit
 
 ## Fundamentals
 - [📹 Intro to LLMs](https://www.youtube.com/watch?v=LPZh9BOjkQs&ab_channel=3Blue1Brown)
