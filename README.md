@@ -24,7 +24,7 @@
 - [🐱 More advanced topics: LoRA, Quantization, etc.](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
 
 ## Snippets
-- [Calculating perplexity](https://huggingface.co/docs/transformers/perplexity)
+- [🧬 Calculating perplexity](https://huggingface.co/docs/transformers/perplexity)
 
 ## Implementation
 - [🦅 Hábrók mini-wiki](habrok.md)
