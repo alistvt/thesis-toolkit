@@ -4,6 +4,8 @@ Hábrók original Wiki is very big, so I understand if you as a lazy student don
 Therefore I write this little Wiki for you to help you jump into the meat of the project rather than wasting lots of hours on the documentation.
 But this is the way I do it and I'm comfortable with it, so maybe you find a better way and then tell me, maybe we decide to update this page!
 
+**P.S.** Throughout this short wiki, 🦅 is used interchangably with the word Hábrók because I don't know how to put ' on a and o.
+
 ## How to upload my code?
 In Hábrók Wiki they recommend to connect to a ftp protochol, etc.
 I recommend you use your GitHub for it. Here is how to do:
@@ -14,14 +16,23 @@ I recommend you use your GitHub for it. Here is how to do:
   - profile settings -> developer options -> fine-grained token -> select the project
   - grant the repository permissions -> contents -> read and write
   - save your token
-4. connect to habrok in ssh
+4. connect to 🦅 in ssh
 5. clone your repository:
   - `git clone https://oauth2:<your-fine-grained-token>@github.com/owner/repo.git`
 
-Now you will have your code in Habrok. You can modify your code through your local editor (like VsCode) and push it to github, then go to Habrok pull the changes, or vice versa.
+Now you will have your code in 🦅. You can modify your code through your local editor (like VsCode) and push it to github, then go to 🦅 pull the changes, or vice versa.
 
 ## Running and setting up python
-
+In python you need to make a virtual environment so that you can install different packages there.
+```
+module load Python/3.9.6-GCCcore-11.2.0
+python3 -m venv $HOME/venvs/<ENV-NAME>
+source $HOME/venvs/<ENV-NAME>/bin/activate
+pip install --upgrade pip
+pip install --upgrade wheel
+```
+then use `pip install <PACKAGE-NAME>` to install required packages.
+if you are using a github repository, they usually have a `requirements.txt` file. you can use `pip install -r requirements.txt` to install everything at once.
 
 ## GPU Jobs
 
@@ -58,3 +69,15 @@ python <YOUR-PYTHON-FILE>
 - cancelling jobs: I don't know the command! I do it through web GUI.
 - when your job starts running, an output file is generated (at the location that you submitted the job). it's named like `output_<TIMESTAMP>.out`.
 - you can change the name and location of that output file. (I won't tell you how. figure out yourself.)
+
+## Debugging
+- not written yet
+
+## Tricks
+- I prefer using this [link](https://portal.hb.hpc.rug.nl/pun/sys/shell/ssh/interactive1.hb.hpc.rug.nl) to connect to the shell.
+- to manage files I prefer to connect vscode to the 🦅 , or using the web GUI file manager.
+- [Dashboard](https://portal.hb.hpc.rug.nl/pun/sys/dashboard/)
+- [Big Wiki](https://wiki.hpc.rug.nl/habrok)
+- when you have several 🦅 tabs open in browser, all of them will have the same title and icon on your tabs bar. I use [this extension](https://github.com/sean-smith/chromeshortcuts) to change them.
+   
+**P.S:** If something is not mentioned here, it means I don't have any sort of shortcut or trick other than what is in the original wiki. So, you are unlucky :)
