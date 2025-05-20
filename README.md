@@ -25,3 +25,6 @@
 
 ## Snippets
 - [Calculating perplexity](https://huggingface.co/docs/transformers/perplexity)
+
+## Implementation
+- [🦅 Hábrók mini-wiki](habrok.md)
