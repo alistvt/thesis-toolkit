@@ -80,4 +80,4 @@ python <YOUR-PYTHON-FILE>
 - [Big Wiki](https://wiki.hpc.rug.nl/habrok)
 - when you have several 🦅 tabs open in browser, all of them will have the same title and icon on your tabs bar. I use [this extension](https://github.com/sean-smith/chromeshortcuts) to change them.
    
-**P.S:** If something is not mentioned here, it means I don't have any sort of shortcut or trick other than what is in the original wiki. So, you are unlucky :)
+**P.S.** If something is not mentioned here, it means I don't have any sort of shortcut or trick other than what is in the original wiki. So, you are unlucky :)
