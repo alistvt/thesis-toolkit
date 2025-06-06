@@ -13,7 +13,7 @@ I recommend you use your GitHub for it. Here is how to do:
 1. make a github repository for your project
 2. share it with me! (repo settings -> collaborators -> ...)
 3. make a fine-grained token for this repository:
-  - profile settings -> developer options -> fine-grained token -> select the project
+  - profile settings -> developer settings -> fine-grained token -> select the project
   - grant the repository permissions -> contents -> read and write
   - save your token
 4. connect to 🦅 in ssh
