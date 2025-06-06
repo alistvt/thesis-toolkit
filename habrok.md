@@ -1,6 +1,6 @@
 # 🦅 Hábrók mini-wiki
 
-Hábrók original Wiki is very big, so I understand if you as a lazy student don't want to read it all. (I'm kidding, I don't accept lazy students!)
+Hábrók original Wiki is very big, so I understand if you as a lazy student don't want to read it all.
 Therefore I write this little Wiki for you to help you jump into the meat of the project rather than wasting lots of hours on the documentation.
 But this is the way I do it and I'm comfortable with it, so maybe you find a better way and then tell me, maybe we decide to update this page!
 
