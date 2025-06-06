@@ -18,7 +18,7 @@ I recommend you use your GitHub for it. Here is how to do:
   - save your token
 4. connect to 🦅 in ssh
 5. clone your repository:
-  - `git clone https://oauth2:<your-fine-grained-token>@github.com/owner/repo.git`
+  - `git clone https://oauth2:<your-fine-grained-token>@github.com/<owner>/<repo>.git`
 
 Now you will have your code in 🦅. You can modify your code through your local editor (like VsCode) and push it to github, then go to 🦅 pull the changes, or vice versa.
 
