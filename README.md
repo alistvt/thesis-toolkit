@@ -32,3 +32,4 @@
 ## Implementation
 - [🦅 Hábrók mini-wiki](habrok.md)
 - [🖥 Programming conventions](programming.md)
+- [📟 Bash Little Cheatsheet](bash.md)
