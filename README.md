@@ -12,6 +12,9 @@
 - [📹 How large language models work, a visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6&ab_channel=3Blue1Brown)
 - [🐱 Sampling methods and text generation](https://mlabonne.github.io/blog/posts/2022-06-07-Decoding_strategies.html)
 
+## Visualizations
+- [Transformer Visualization](https://poloclub.github.io/transformer-explainer/)
+
 ## Hands-on Tutorials
 - [🤗 Huggingface](https://huggingface.co/docs/transformers/quicktour)
 
