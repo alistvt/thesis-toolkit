@@ -13,7 +13,7 @@
 - [🐱 Sampling methods and text generation](https://mlabonne.github.io/blog/posts/2022-06-07-Decoding_strategies.html)
 
 ## Visualizations
-- [Transformer Visualization](https://poloclub.github.io/transformer-explainer/)
+- [👁‍🗨 Transformer Visualization](https://poloclub.github.io/transformer-explainer/)
 
 ## Hands-on Tutorials
 - [🤗 Huggingface](https://huggingface.co/docs/transformers/quicktour)
