@@ -31,7 +31,8 @@
 ### 🎥 Talks & Tutorials
 - [Video by carlini](https://www.youtube.com/watch?v=A_P_9mmTuGA&ab_channel=USENIX)
 - [More detailed version of the same video](https://www.youtube.com/watch?v=RDpHBLJKaNU&ab_channel=PrivacyandSecurityinMLInterestGroup)
-
+- [Eric Wallace on Memorization](https://www.youtube.com/watch?v=dXTfY7tgb-o&ab_channel=UCBerkeleyEECS)
+  
 ## 🧩 Snippets
 - [Calculating perplexity](https://huggingface.co/docs/transformers/perplexity)
 
