@@ -22,7 +22,7 @@
 ## 🚀Advanced Topics
 - [🐱 More advanced topics: LoRA, Quantization, etc.](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
 
-
+## 🔐 Privacy & Security of LLMs
 ### 📑 Key Papers
 - [Undesirable Memorization in LLMs: A Survey](https://arxiv.org/abs/2410.02650v2)
 - [Privacy Issues in LLMs](https://arxiv.org/abs/2312.06717)
