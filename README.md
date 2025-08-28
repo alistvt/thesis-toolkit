@@ -10,13 +10,14 @@
 - [📹 Developing an LLM: Building, Training, Finetuning](https://www.youtube.com/watch?v=kPGTx4wcm_w&ab_channel=SebastianRaschka)
 - [📹 Visualizing transformers and attention, by Grant Sanderson](https://www.youtube.com/watch?v=KJtZARuO3JY&ab_channel=GrantSanderson)
 - [📹 How large language models work, a visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6&ab_channel=3Blue1Brown)
-- [🐱 Sampling methods and text generation](https://mlabonne.github.io/blog/posts/2022-06-07-Decoding_strategies.html)
+- [📹 Text Generation and Sampling Strategies](https://www.youtube.com/watch?v=-BBulGM6xF0&ab_channel=DataMListic)
 
 ## Visualizations
 - [👁‍🗨 Transformer Visualization](https://poloclub.github.io/transformer-explainer/)
 
 ## Hands-on Tutorials
 - [🤗 Huggingface](https://huggingface.co/docs/transformers/quicktour)
+- [🐱 Sampling methods and text generation](https://mlabonne.github.io/blog/posts/2022-06-07-Decoding_strategies.html)
 
 ## Data extraction attack
 - [📹 Video by carlini](https://www.youtube.com/watch?v=A_P_9mmTuGA&ab_channel=USENIX)
