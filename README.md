@@ -1,8 +1,6 @@
 # LLM Thesis Toolkit 🧰
 
-<details>
-<summary>## LLM Fundamentals</summary>
-  
+## LLM Fundamentals  
 - [📹 Intro to LLMs](https://www.youtube.com/watch?v=LPZh9BOjkQs&ab_channel=3Blue1Brown)
 - [📹 Language Modeling](https://www.youtube.com/watch?v=lnA9DMvHtfI&ab_channel=Graphicsin5Minutes) 
 - [📹 Tokenization](https://www.youtube.com/watch?v=mPCDi7ZQCls&ab_channel=Databricks)
@@ -13,8 +11,7 @@
 - [📹 Visualizing transformers and attention, by Grant Sanderson](https://www.youtube.com/watch?v=KJtZARuO3JY&ab_channel=GrantSanderson)
 - [📹 How large language models work, a visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6&ab_channel=3Blue1Brown)
 - [🐱 Sampling methods and text generation](https://mlabonne.github.io/blog/posts/2022-06-07-Decoding_strategies.html)
-</details>
-  
+
 ## Visualizations
 - [👁‍🗨 Transformer Visualization](https://poloclub.github.io/transformer-explainer/)
 
