@@ -35,6 +35,7 @@
   
 ## 🧩 Snippets
 - [Calculating perplexity](https://huggingface.co/docs/transformers/perplexity)
+- [Finetuning Large Models (more than 1 GPU)](https://github.com/alistvt/multi-gpu-llm-training)
 
 ## ⚙️ Implementation
 - [🦅 Hábrók mini-wiki](habrok.md)
