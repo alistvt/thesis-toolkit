@@ -21,6 +21,7 @@
 
 ## 🚀Advanced Topics
 - [🐱 More advanced topics: LoRA, Quantization, etc.](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
+- [Various skills resources](https://github.com/Orchestra-Research/AI-research-SKILLs?tab=readme-ov-file)
 
 ## 🔐 Privacy & Security of LLMs
 ### 📑 Key Papers
