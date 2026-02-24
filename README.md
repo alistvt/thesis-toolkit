@@ -52,3 +52,9 @@
 - [LLM Understanding](https://www.youtube.com/watch?v=HLi6wOa1-Q4&list=PL2xTeGtUb-8B94jdWGT-chu4ucI7oEe_x)
 - [NN Zero to Hero by Karpathy](https://karpathy.ai/zero-to-hero.html)
 
+## 🚦 Principles of Research
+- reproducibility: TODO
+- minimum experiment: TODO
+- benchmarks and baselines
+- evaluations
+- analyzing
