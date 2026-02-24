@@ -1,5 +1,8 @@
 # LLM Thesis Toolkit 🧰
 
+## Fundamentals of ML
+- [3Blue1Brown: Neural Networks series](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
 ## 📖 Fundamentals of LLMs  
 - [Intro to LLMs](https://www.youtube.com/watch?v=LPZh9BOjkQs&ab_channel=3Blue1Brown)
 - [Language Modeling](https://www.youtube.com/watch?v=lnA9DMvHtfI&ab_channel=Graphicsin5Minutes) 
