@@ -1,5 +1,9 @@
 # LLM Thesis Toolkit 🧰
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 ## 🧠 Fundamentals of ML
 - [3Blue1Brown: Neural Networks series](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
@@ -23,7 +27,10 @@
 - [Huggingface](https://huggingface.co/docs/transformers/quicktour)
 - [Sampling methods and text generation](https://mlabonne.github.io/blog/posts/2022-06-07-Decoding_strategies.html)
 
-## 🚀Advanced Topics
+    </td>
+    <td valign="top" width="50%">
+
+## 🚀 Advanced Topics
 - [🐱 More advanced topics: LoRA, Quantization, etc.](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
 - [Various skills resources](https://github.com/Orchestra-Research/AI-research-SKILLs?tab=readme-ov-file)
 
@@ -32,12 +39,12 @@
 - [Undesirable Memorization in LLMs: A Survey](https://arxiv.org/abs/2410.02650v2)
 - [Privacy Issues in LLMs](https://arxiv.org/abs/2312.06717)
 - [Original data extraction paper](https://arxiv.org/abs/2012.07805)
-  
+
 ### 🎥 Talks & Tutorials
 - [Video by carlini](https://www.youtube.com/watch?v=A_P_9mmTuGA&ab_channel=USENIX)
 - [More detailed version of the same video](https://www.youtube.com/watch?v=RDpHBLJKaNU&ab_channel=PrivacyandSecurityinMLInterestGroup)
 - [Eric Wallace on Memorization](https://www.youtube.com/watch?v=dXTfY7tgb-o&ab_channel=UCBerkeleyEECS)
-  
+
 ## 🧩 Snippets
 - [Calculating perplexity](https://huggingface.co/docs/transformers/perplexity)
 - [Finetuning Large Models (more than 1 GPU)](https://github.com/alistvt/multi-gpu-llm-training)
@@ -54,7 +61,7 @@
 
 ## 🍃 Writing
 - [Planning and Gantt chart](planning.md#gantt-chart)
-- [Task management](planning.md#task-management
+- [Task management](planning.md#task-management)
 
 ## 🚦 Principles of Research
 - reproducibility: TODO
@@ -62,3 +69,7 @@
 - benchmarks and baselines
 - evaluations
 - analyzing
+
+    </td>
+  </tr>
+</table>
