@@ -27,12 +27,12 @@
 - [Huggingface](https://huggingface.co/docs/transformers/quicktour)
 - [Sampling methods and text generation](https://mlabonne.github.io/blog/posts/2022-06-07-Decoding_strategies.html)
 
-    </td>
-    <td valign="top" width="50%">
-
 ## 🚀 Advanced Topics
 - [🐱 More advanced topics: LoRA, Quantization, etc.](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
 - [Various skills resources](https://github.com/Orchestra-Research/AI-research-SKILLs?tab=readme-ov-file)
+
+  </td>
+  <td valign="top" width="50%">
 
 ## 🔐 Privacy & Security of LLMs
 ### 📑 Key Papers
