@@ -53,7 +53,8 @@
 - [NN Zero to Hero by Karpathy](https://karpathy.ai/zero-to-hero.html)
 
 ## 🍃 Writing
-- [Planning and Gantt chart](planning.md)
+- [Planning and Gantt chart](planning.md#gantt-chart)
+- [Task management](planning.md#task-management
 
 ## 🚦 Principles of Research
 - reproducibility: TODO
