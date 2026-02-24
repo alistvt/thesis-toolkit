@@ -1,3 +1,5 @@
+# Gantt Chart
+
 Here is a sample gantt chart for you to use in your planning during the proposal. (from the proposal of a previous student Dianne) 
 Note that important milestones have been shown in this chart and also the actual dates are mentioned, this helps to know where we are standing each week during the project.
 
@@ -50,3 +52,11 @@ Note that important milestones have been shown in this chart and also the actual
 \label{fig:gantt_chart}
 \end{figure}
 ```
+
+# Task management
+
+I would suggest you to use a task management system for yourself. 
+I personally suggest `trello`, it is a nice tool that you can have a board and manage your tasks. 
+You can make define small tasks based on the outcomes of the meetings and work on the tasks, and also you can keep track of the ideas that come to your mind somewhere in the board, so you won't be worried about forgetting them and later you can come back to those.
+This would help you track the project and keep the wheel moving while drinking your coffee.☕️
+
