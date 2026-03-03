@@ -45,6 +45,22 @@
 - [More detailed version of the same video](https://www.youtube.com/watch?v=RDpHBLJKaNU&ab_channel=PrivacyandSecurityinMLInterestGroup)
 - [Eric Wallace on Memorization](https://www.youtube.com/watch?v=dXTfY7tgb-o&ab_channel=UCBerkeleyEECS)
 
+## 📚 Recommended Courses
+- [Advanced NLP CMU](https://www.youtube.com/watch?v=MM48kc5Zq8A&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp)
+- [LLM Understanding](https://www.youtube.com/watch?v=HLi6wOa1-Q4&list=PL2xTeGtUb-8B94jdWGT-chu4ucI7oEe_x)
+- [NN Zero to Hero by Karpathy](https://karpathy.ai/zero-to-hero.html)
+
+## 🍃 Writing
+- [Planning and Gantt chart](planning.md#gantt-chart)
+- [Task management](planning.md#task-management)
+
+## 🚦 Principles of Research
+- reproducibility: TODO
+- minimum experiment: TODO
+- benchmarks and baselines
+- evaluations
+- analyzing
+
 ## 🧩 Snippets
 - [Calculating perplexity](https://huggingface.co/docs/transformers/perplexity)
 - [Finetuning Large Models (more than 1 GPU)](https://github.com/alistvt/multi-gpu-llm-training)
@@ -68,22 +84,6 @@
 - Enron Corp. Emails
 - ECtHR: European Court of Human Rights
 - YAGO Biographies
-
-## 📚 Recommended Courses
-- [Advanced NLP CMU](https://www.youtube.com/watch?v=MM48kc5Zq8A&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp)
-- [LLM Understanding](https://www.youtube.com/watch?v=HLi6wOa1-Q4&list=PL2xTeGtUb-8B94jdWGT-chu4ucI7oEe_x)
-- [NN Zero to Hero by Karpathy](https://karpathy.ai/zero-to-hero.html)
-
-## 🍃 Writing
-- [Planning and Gantt chart](planning.md#gantt-chart)
-- [Task management](planning.md#task-management)
-
-## 🚦 Principles of Research
-- reproducibility: TODO
-- minimum experiment: TODO
-- benchmarks and baselines
-- evaluations
-- analyzing
 
     </td>
   </tr>
