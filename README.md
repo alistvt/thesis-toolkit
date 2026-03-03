@@ -31,20 +31,6 @@
 - [🐱 More advanced topics: LoRA, Quantization, etc.](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
 - [Various skills resources](https://github.com/Orchestra-Research/AI-research-SKILLs?tab=readme-ov-file)
 
-  </td>
-  <td valign="top" width="50%">
-
-## 🔐 Privacy & Security of LLMs
-### 📑 Key Papers
-- [Undesirable Memorization in LLMs: A Survey](https://arxiv.org/abs/2410.02650v2)
-- [Privacy Issues in LLMs](https://arxiv.org/abs/2312.06717)
-- [Original data extraction paper](https://arxiv.org/abs/2012.07805)
-
-### 🎥 Talks & Tutorials
-- [Video by carlini](https://www.youtube.com/watch?v=A_P_9mmTuGA&ab_channel=USENIX)
-- [More detailed version of the same video](https://www.youtube.com/watch?v=RDpHBLJKaNU&ab_channel=PrivacyandSecurityinMLInterestGroup)
-- [Eric Wallace on Memorization](https://www.youtube.com/watch?v=dXTfY7tgb-o&ab_channel=UCBerkeleyEECS)
-
 ## 📚 Recommended Courses
 - [Advanced NLP CMU](https://www.youtube.com/watch?v=MM48kc5Zq8A&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp)
 - [LLM Understanding](https://www.youtube.com/watch?v=HLi6wOa1-Q4&list=PL2xTeGtUb-8B94jdWGT-chu4ucI7oEe_x)
@@ -60,6 +46,21 @@
 - benchmarks and baselines
 - evaluations
 - analyzing
+
+  </td>
+  <td valign="top" width="50%">
+
+## 🔐 Privacy & Security of LLMs
+### 📑 Key Papers
+- [Undesirable Memorization in LLMs: A Survey](https://arxiv.org/abs/2410.02650v2)
+- [Privacy Issues in LLMs](https://arxiv.org/abs/2312.06717)
+- [Original data extraction paper](https://arxiv.org/abs/2012.07805)
+
+### 🎥 Talks & Tutorials
+- [Video by carlini](https://www.youtube.com/watch?v=A_P_9mmTuGA&ab_channel=USENIX)
+- [More detailed version of the same video](https://www.youtube.com/watch?v=RDpHBLJKaNU&ab_channel=PrivacyandSecurityinMLInterestGroup)
+- [Eric Wallace on Memorization](https://www.youtube.com/watch?v=dXTfY7tgb-o&ab_channel=UCBerkeleyEECS)
+
 
 ## 🧩 Snippets
 - [Calculating perplexity](https://huggingface.co/docs/transformers/perplexity)
