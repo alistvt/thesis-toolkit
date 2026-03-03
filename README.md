@@ -54,6 +54,21 @@
 - [🖥 Programming conventions](programming.md)
 - [📟 Bash Little Cheatsheet](bash.md)
 
+## 🗽 Models
+- [Pythia and GPT-Neo](https://arxiv.org/abs/2304.01373)
+- [Hubble Suite](https://arxiv.org/abs/2510.19811)
+- [Opt family](https://arxiv.org/abs/2205.01068)
+- [EL-MIA](https://arxiv.org/abs/2511.00192)
+- [Qwen finetuned on Epstien files](https://huggingface.co/ortegaalfredo/MechaEpstein-8000-GGUF)
+
+## 📚 Datasets
+- EL-MIA: Entity-level memorization
+- Ai4Privacy
+- Hubble
+- Enron Corp. Emails
+- ECtHR: European Court of Human Rights
+- YAGO Biographies
+
 ## 📚 Recommended Courses
 - [Advanced NLP CMU](https://www.youtube.com/watch?v=MM48kc5Zq8A&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp)
 - [LLM Understanding](https://www.youtube.com/watch?v=HLi6wOa1-Q4&list=PL2xTeGtUb-8B94jdWGT-chu4ucI7oEe_x)
