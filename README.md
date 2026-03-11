@@ -70,6 +70,7 @@
 - [🦅 Hábrók mini-wiki](habrok.md)
 - [🖥 Programming conventions](programming.md)
 - [📟 Bash Little Cheatsheet](bash.md)
+- Git / Github
 
 ## 🗽 Models
 - [Pythia and GPT-Neo](https://arxiv.org/abs/2304.01373)
